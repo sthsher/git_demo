@@ -5,6 +5,13 @@ void function_2
 {
 	int j = 0;
 	j++;
+
+}
+
+void function_1
+{
+	int i = 0;
+	i++;
 	return;
 }
 
