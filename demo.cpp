@@ -1,5 +1,13 @@
 #include <iostream>
 
+
+void function_2
+{
+	int j = 0;
+	j++;
+	return;
+}
+
 int main()
 {
 	std::cout << "Hello" << std::endl;
