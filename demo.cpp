@@ -5,6 +5,7 @@ void function_2
 {
 	int j = 0;
 	j++;
+	j++;
 
 }
 
