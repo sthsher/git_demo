@@ -1,5 +1,12 @@
 #include <iostream>
 
+void function_1
+{
+	int i = 0;
+	i++;
+	return;
+}
+
 int main()
 {
 	std::cout << "Hello" << std::endl;
